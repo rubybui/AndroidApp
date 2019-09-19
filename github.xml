@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="ec96639f-84e2-41fa-897f-1ca164052575" name="rubybui">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
